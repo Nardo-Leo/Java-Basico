@@ -32,6 +32,6 @@ public class contaTerminal {
         cnt + "\n \tSeu saldo atual é de: " + saldoFmt.format(saldo));
 
 
-        System.out.println("\nAte a proxima!\n\n"); 
+        System.out.println("\nAté a próxima!\n\n"); 
     }
 }
